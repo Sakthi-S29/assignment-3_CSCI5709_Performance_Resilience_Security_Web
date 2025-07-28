@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request - GET,50,142,118,888,106.54,0.000%,.84844,2.70,0.31,3257.0
+HTTP Request - Post,50,260,232,874,87.80,0.000%,.85772,0.43,0.47,519.0
+User Login - POST ,50,335,306,351,11.56,0.000%,.85643,0.55,0.42,660.0
+Booking - GET,50,127,118,139,4.58,0.000%,.85974,0.89,0.34,1056.0
+TOTAL,200,216,118,888,110.28,0.000%,3.27022,4.38,1.46,1373.0
